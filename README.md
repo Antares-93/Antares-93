@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Muhammad Dzakwan Hanif</h1>
+  <h1>Hello There, I'm Muhammad Dzakwan Hanif</h1>
   <p><strong>UI/UX Designer • Visual Designer • Frontend & Full-Stack Enthusiast</strong></p>
   
   <p>
@@ -8,22 +8,13 @@
 
   <!-- Social Media & Design Portfolio Links -->
   <p>
-    <a href="https://figma.com/@your-username" target="_blank">
+    <a href="https://figma.com/@dzhaniff" target="_blank">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     </a>
-    <a href="https://dribbble.com/your-username" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-    </a>
-    <a href="https://behance.net/your-username" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-    </a>
-    <a href="https://instagram.com/your-username" target="_blank">
+    <a href="https://instagram.com/dzhaniff" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://linkedin.com/in/your-username" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your.email@domain.com">
+    <a href="mailto:dzakwanhanif47@gmail.comm">
       <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
@@ -59,16 +50,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### Featured Design & Dev Case Studies
-
-| Project | Role & Focus | Tools & Stack |
-| :--- | :--- | :--- |
-| **[Qcumber Mobile App](https://github.com/Antares-93)** | **Lead UI/UX Designer** — Crafted a 20-screen social media interface, component sets, overlays, and interactive flows translated into Flutter. | `Figma` `Flutter` `Dart` |
-| **[CargoTrace - Vector](https://github.com/Antares-93/CargoTrace-VECTOR)** | **UI/UX & Full-Stack Dev** — Designed a responsive global cargo corridor dashboard with dark/light themes and interactive map tracking. | `Figma` `Laravel` `Blade` `MySQL` |
-| **[RedLine Diecast Vault](https://github.com/Antares-93)** | **Product Designer & Full-Stack Dev** — Built a sleek catalog and e-commerce storefront for diecast collectors with checkout flow simulation. | `Figma` `Laravel` `MySQL` |
 
 ---
 
