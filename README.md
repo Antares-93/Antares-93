@@ -1,21 +1,30 @@
 <div align="center">
-  <h1>Hi there, I'm Muhammad Dzakwan Hanif</h1>
-  <p><strong>Information Systems Student • Full-Stack Developer • UI/UX Designer</strong></p>
+  <h1>Hi, I'm Muhammad Dzakwan Hanif</h1>
+  <p><strong>UI/UX Designer • Visual Designer • Frontend & Full-Stack Enthusiast</strong></p>
   
   <p>
-    Building scalable web & mobile applications with clean architecture and intuitive user interfaces.
+    Crafting clean, user-centered interfaces in <strong>Figma</strong> and bringing designs to life with modern web & mobile code.
   </p>
 
-  <!-- Social & Contact Badges -->
+  <!-- Social Media & Design Portfolio Links -->
   <p>
+    <a href="https://figma.com/@your-username" target="_blank">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    </a>
+    <a href="https://dribbble.com/your-username" target="_blank">
+      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+    </a>
+    <a href="https://behance.net/your-username" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    </a>
+    <a href="https://instagram.com/your-username" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
     <a href="https://linkedin.com/in/your-username" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:your.email@domain.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://your-portfolio-link.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
@@ -24,31 +33,47 @@
 
 ### About Me
 
-- Pursuing a Bachelor's degree in **Information Systems** at **Universitas Malikussaleh**.
-- Experienced in developing full-stack web systems (**Laravel**, **Python/Flask**) and cross-platform mobile interfaces (**Flutter**).
-- Passionate about **UI/UX Design**, system modeling (UML/ERD), and crafting clean, modern digital products.
-- ⚡Fun fact: I enjoy automating repetitive workflows and exploring motorsport telemetry & liveries.
+- **UI/UX & Visual Designer** focused on clean layouts, design systems, interactive prototyping, and cohesive brand identity.
+- **Information Systems Student** at **Universitas Malikussaleh**, combining analytical system thinking with visual aesthetics.
+- **Design-to-Code Bridge:** Capable of translating Figma wireframes into functional web & mobile apps using **Flutter**, **Laravel**, and modern frontend tools.
+- Design Philosophy: *Clean grids, purposeful typography, and zero visual clutter.*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Design & Development Toolkit
 
-#### **Languages**
+#### **UI/UX, Prototyping & Visual Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+#### **Frontend & Mobile Implementation**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### **Backend & Database (Full-Stack Support)**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **Frameworks & Libraries**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Databases & DevOps**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](
+
+---
+
+### Featured Design & Dev Case Studies
+
+| Project | Role & Focus | Tools & Stack |
+| :--- | :--- | :--- |
+| **[Qcumber Mobile App](https://github.com/Antares-93)** | **Lead UI/UX Designer** — Crafted a 20-screen social media interface, component sets, overlays, and interactive flows translated into Flutter. | `Figma` `Flutter` `Dart` |
+| **[CargoTrace - Vector](https://github.com/Antares-93/CargoTrace-VECTOR)** | **UI/UX & Full-Stack Dev** — Designed a responsive global cargo corridor dashboard with dark/light themes and interactive map tracking. | `Figma` `Laravel` `Blade` `MySQL` |
+| **[RedLine Diecast Vault](https://github.com/Antares-93)** | **Product Designer & Full-Stack Dev** — Built a sleek catalog and e-commerce storefront for diecast collectors with checkout flow simulation. | `Figma` `Laravel` `MySQL` |
+
+---
+
+### GitHub Activity & Languages
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Antares-93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F24E1E&icon_color=F24E1E&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170em" src="
