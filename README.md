@@ -2,10 +2,6 @@
   <h1>Hello There, I'm Muhammad Dzakwan Hanif</h1>
   <p><strong>UI/UX Designer • Visual Designer • Frontend & Full-Stack Enthusiast</strong></p>
   
-  <p>
-    Crafting clean, user-centered interfaces in <strong>Figma</strong> and bringing designs to life with modern web & mobile code.
-  </p>
-
   <!-- Social Media & Design Portfolio Links -->
   <p>
     <a href="https://figma.com/@dzhaniff" target="_blank">
