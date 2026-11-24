@@ -46,11 +46,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### GitHub Activity & Languages
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Antares-93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F24E1E&icon_color=F24E1E&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="170em" src="
